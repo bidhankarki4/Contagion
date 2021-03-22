@@ -1,0 +1,22 @@
+Please enter the name of the configuration file:mileconf.txt
+Regional Population
+1 5100
+2 500
+3 4200
+4 6800
+5 3100
+6 6200
+7 800
+8 6700
+9 5500
+
+Adjacency List
+1: 4 5 
+2: 3 9 
+3: 2 8 
+4: 1 7 
+5: 1 8 
+6: 7 9 
+7: 4 6 
+8: 3 5 
+9: 2 6 
